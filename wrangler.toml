@@ -1,0 +1,8 @@
+name = "campus-booking-api"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "booking-db"
+database_id = "004eedd1-52fc-4a57-aa14-63091e1366a7"
